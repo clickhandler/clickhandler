@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay chawariya</h1>
 
 <div align="centre">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="90%" height="400"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="400"/>
 </div>
 <h3 align="center">Passion-driven learner and a web developer with the ability to write clean, reusable, optimised code. Skilled at building and maintaining MERN based web applications. Looking forward to joining a progressive and challenging work environment.</h3>
 
